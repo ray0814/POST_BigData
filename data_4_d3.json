@@ -133,327 +133,327 @@
     {
       "target": "I4",
       "source": "Y4",
-      "value": 2278
+      "value": 46
     },
     {
       "target": "Z4",
       "source": "A1",
-      "value": 820
+      "value": 21
     },
     {
       "target": "H4",
       "source": "Y4",
-      "value": 329
+      "value": 12
     },
     {
       "target": "Y4",
       "source": "Z4",
-      "value": 81
+      "value": 8
     },
     {
       "target": "Z4",
       "source": "T2",
-      "value": 71
+      "value": 7
     },
     {
       "target": "G1",
       "source": "Z1",
-      "value": 61
+      "value": 7
     },
     {
       "target": "I1",
       "source": "G1",
-      "value": 44
+      "value": 7
     },
     {
       "target": "I7",
       "source": "Y7",
-      "value": 37
+      "value": 7
     },
     {
       "target": "Z2",
       "source": "H4",
-      "value": 33
+      "value": 7
     },
     {
       "target": "G2",
       "source": "Z2",
-      "value": 32
+      "value": 7
     },
     {
       "target": "H4",
       "source": "X2",
-      "value": 22
+      "value": 7
     },
     {
       "target": "I2",
       "source": "G2",
-      "value": 21
+      "value": 7
     },
     {
       "target": "Y4",
       "source": "P4",
-      "value": 21
+      "value": 7
     },
     {
       "target": "Z4",
       "source": "H4",
-      "value": 20
+      "value": 7
     },
     {
       "target": "W2",
       "source": "H4",
-      "value": 20
+      "value": 7
     },
     {
       "target": "Z4",
       "source": "Z4",
-      "value": 19
+      "value": 6
     },
     {
       "target": "I4",
       "source": "W2",
-      "value": 18
+      "value": 6
     },
     {
       "target": "I4",
       "source": "I4",
-      "value": 9
+      "value": 6
     },
     {
       "target": "Y4",
       "source": "Y4",
-      "value": 7
+      "value": 6
     },
     {
       "target": "V2",
       "source": "I4",
-      "value": 3
+      "value": 6
     },
     {
       "target": "Z4",
       "source": "A3",
-      "value": 3
+      "value": 6
     },
     {
       "target": "G2",
       "source": "Z1",
-      "value": 3
+      "value": 6
     },
     {
       "target": "H4",
       "source": "V2",
-      "value": 3
+      "value": 6
     },
     {
       "target": "Y4",
       "source": "I4",
-      "value": 3
+      "value": 6
     },
     {
       "target": "P4",
       "source": "Z2",
-      "value": 3
+      "value": 6
     },
     {
       "target": "A1",
       "source": "V3",
-      "value": 3
+      "value": 6
     },
     {
       "target": "H4",
       "source": "H4",
-      "value": 3
+      "value": 6
     },
     {
       "target": "V3",
       "source": "A1",
-      "value": 3
+      "value": 6
     },
     {
       "target": "P5",
       "source": "P5",
-      "value": 2
+      "value": 6
     },
     {
       "target": "G2",
       "source": "Z4",
-      "value": 2
+      "value": 6
     },
     {
       "target": "I4",
       "source": "V2",
-      "value": 2
+      "value": 6
     },
     {
       "target": "Z4",
       "source": "I4",
-      "value": 2
+      "value": 6
     },
     {
       "target": "Z4",
       "source": "S2",
-      "value": 2
+      "value": 6
     },
     {
       "target": "G2",
       "source": "Y4",
-      "value": 2
+      "value": 6
     },
     {
       "target": "I4",
       "source": "X2",
-      "value": 2
+      "value": 6
     },
     {
       "target": "P4",
       "source": "Z4",
-      "value": 2
+      "value": 6
     },
     {
       "target": "X2",
       "source": "P4",
-      "value": 2
+      "value": 6
     },
     {
       "target": "P4",
       "source": "A1",
-      "value": 2
+      "value": 6
     },
     {
       "target": "V2",
       "source": "Y4",
-      "value": 2
+      "value": 6
     },
     {
       "target": "Z4",
       "source": "T1",
-      "value": 1
+      "value": 6
     },
     {
       "target": "T4",
       "source": "H4",
-      "value": 1
+      "value": 6
     },
     {
       "target": "H7",
       "source": "Y7",
-      "value": 1
+      "value": 6
     },
     {
       "target": "Y4",
       "source": "H4",
-      "value": 1
+      "value": 6
     },
     {
       "target": "Z1",
       "source": "P4",
-      "value": 1
+      "value": 6
     },
     {
       "target": "X2",
       "source": "I4",
-      "value": 1
+      "value": 6
     },
     {
       "target": "Z2",
       "source": "Z4",
-      "value": 1
+      "value": 6
     },
     {
       "target": "P5",
       "source": "I4",
-      "value": 1
+      "value": 6
     },
     {
       "target": "P4",
       "source": "H4",
-      "value": 1
+      "value": 6
     },
     {
       "target": "H7",
       "source": "X2",
-      "value": 1
+      "value": 6
     },
     {
       "target": "G1",
       "source": "Y4",
-      "value": 1
+      "value": 6
     },
     {
       "target": "G1",
       "source": "Z4",
-      "value": 1
+      "value": 6
     },
     {
       "target": "Z4",
       "source": "H7",
-      "value": 1
+      "value": 6
     },
     {
       "target": "I4",
       "source": "I2",
-      "value": 1
+      "value": 6
     },
     {
       "target": "Z4",
       "source": "P4",
-      "value": 1
+      "value": 6
     },
     {
       "target": "W2",
       "source": "I4",
-      "value": 1
+      "value": 6
     },
     {
       "target": "P4",
       "source": "Y4",
-      "value": 1
+      "value": 6
     },
     {
       "target": "I4",
       "source": "I1",
-      "value": 1
+      "value": 6
     },
     {
       "target": "G3",
       "source": "Y4",
-      "value": 1
+      "value": 6
     },
     {
       "target": "P4",
       "source": "V2",
-      "value": 1
+      "value": 6
     },
     {
       "target": "I7",
       "source": "W2",
-      "value": 1
+      "value": 6
     },
     {
       "target": "I4",
       "source": "G3",
-      "value": 1
+      "value": 6
     },
     {
       "target": "I4",
       "source": "H4",
-      "value": 1
+      "value": 6
     },
     {
       "target": "Z4",
       "source": "V2",
-      "value": 1
+      "value": 6
     },
     {
       "target": "I4",
       "source": "P4",
-      "value": 1
+      "value": 6
     },
     {
       "target": "I4",
       "source": "G2",
-      "value": 1
+      "value": 6
     }
   ]
 }
